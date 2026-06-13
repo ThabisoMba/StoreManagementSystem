@@ -1,0 +1,228 @@
+﻿@*@{
+        ViewBag.Title = "Home Page";
+    }
+
+    <main>
+        <section class="row" aria-labelledby="aspnetTitle">
+            <h1 id="title">ASP.NET</h1>
+            <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+            <p><a href="https://asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+        </section>
+
+        <div class="row">
+            <section class="col-md-4" aria-labelledby="gettingStartedTitle">
+                <h2 id="gettingStartedTitle">Getting started</h2>
+                <p>
+                    ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+                    enables a clean separation of concerns and gives you full control over markup
+                    for enjoyable, agile development.
+                </p>
+                <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+            </section>
+            <section class="col-md-4" aria-labelledby="librariesTitle">
+                <h2 id="librariesTitle">Get more libraries</h2>
+                <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+                <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+            </section>
+            <section class="col-md-4" aria-labelledby="hostingTitle">
+                <h2 id="hostingTitle">Web Hosting</h2>
+                <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+                <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+            </section>
+        </div>
+    </main>*@
+
+@{
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Store Management Dashboard</h2>
+
+<hr />
+
+<!-- TOTALS SECTION -->
+<div style="display:flex; gap:40px; margin-bottom:30px;">
+
+    <div style="padding:15px; border:1px solid gray;">
+        <h3>Total Customers</h3>
+        <h2>@ViewBag.TotalCustomers</h2>
+    </div>
+
+    <div style="padding:15px; border:1px solid gray;">
+        <h3>Total Products</h3>
+        <h2>@ViewBag.TotalProducts</h2>
+    </div>
+
+    <div style="padding:15px; border:1px solid gray;">
+        <h3>Total Orders</h3>
+        <h2>@ViewBag.TotalOrders</h2>
+    </div>
+
+    <div style="padding:15px; border:1px solid gray;">
+        <h3>Total Categories</h3>
+        <h2>@ViewBag.TotalCategories</h2>
+    </div>
+
+    <div style="padding:15px; border:1px solid gray;">
+        <h3>Total Revenue</h3>
+        <h2>R @ViewBag.TotalRevenue</h2>
+    </div>
+
+</div>
+
+<hr />
+
+<!-- CATEGORIES -->
+<h3>Categories</h3>
+
+<p>
+    @Html.ActionLink("Create New Category", "Create", "Categories")
+</p>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Category Name</th>
+        <th>Description</th>
+        <th>Created Date</th>
+        <th>Is Active</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in ViewBag.Categories)
+    {
+        <tr>
+            <td>@item.CategoryName</td>
+            <td>@item.Description</td>
+            <td>@item.CreatedDate</td>
+            <td>@item.IsActive</td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Categories", new { id = item.CategoryID }, null) |
+
+                @Html.ActionLink("Details", "Details", "Categories", new { id = item.CategoryID }, null) |
+
+                @Html.ActionLink("Delete", "Delete", "Categories", new { id = item.CategoryID }, null)
+            </td>
+        </tr>
+    }
+
+</table>
+
+<hr />
+
+<!-- PRODUCTS -->
+<h3>Products</h3>
+
+<p>
+    @Html.ActionLink("Create New Product", "Create", "Products")
+</p>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Product Name</th>
+        <th>Category</th>
+        <th>Price</th>
+        <th>Stock</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in ViewBag.Products)
+    {
+        <tr>
+            <td>@item.ProductName</td>
+            <td>@item.Category.CategoryName</td>
+            <td>R @item.Price</td>
+            <td>@item.StockQuantity</td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Products", new { id = item.ProductID }, null) |
+
+                @Html.ActionLink("Details", "Details", "Products", new { id = item.ProductID }, null) |
+
+                @Html.ActionLink("Delete", "Delete", "Products", new { id = item.ProductID }, null)
+            </td>
+        </tr>
+    }
+
+</table>
+
+<hr />
+
+<!-- CUSTOMERS -->
+<h3>Customers</h3>
+
+<p>
+    @Html.ActionLink("Create New Customer", "Create", "Customers")
+</p>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in ViewBag.Customers)
+    {
+        <tr>
+            <td>@item.FirstName @item.LastName</td>
+            <td>@item.Email</td>
+            <td>@item.PhoneNumber</td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Customers", new { id = item.CustomerID }, null) |
+
+                @Html.ActionLink("Details", "Details", "Customers", new { id = item.CustomerID }, null) |
+
+                @Html.ActionLink("Delete", "Delete", "Customers", new { id = item.CustomerID }, null)
+            </td>
+        </tr>
+    }
+
+</table>
+
+<hr />
+
+<!-- ORDERS -->
+<h3>Orders</h3>
+
+<p>
+    @Html.ActionLink("Create New Order", "Create", "Orders")
+</p>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Order ID</th>
+        <th>Customer</th>
+        <th>Order Date</th>
+        <th>Status</th>
+        <th>Total Amount</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in ViewBag.Orders)
+    {
+        <tr>
+            <td>@item.OrderID</td>
+            <td>@item.Customer.FirstName @item.Customer.LastName</td>
+            <td>@item.OrderDate</td>
+            <td>@item.Status</td>
+            <td>R @item.TotalAmount</td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Orders", new { id = item.OrderID }, null) |
+
+                @Html.ActionLink("Details", "Details", "Orders", new { id = item.OrderID }, null) |
+
+                @Html.ActionLink("Delete", "Delete", "Orders", new { id = item.OrderID }, null)
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,680 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|c:\\users\\thabiso\\onedrive\\desktop\\storemanagementapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\customers\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\customers\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\categories\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\categories\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\models\\storemanagementdb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:models\\storemanagementdb.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\models\\storemanagementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:models\\storemanagementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\models\\storemanagementdb.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:models\\storemanagementdb.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\models\\storemanagementdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C0BD894F-EC2A-4E1F-9DBD-EA469FDA36C1}|StoreManagementApp.csproj|solutionrelative:models\\storemanagementdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T16:30:15.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:15:11.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T16:15:00.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T12:06:59.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:49:25.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:15:17.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:51:48.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAwwK4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T11:03:17.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:49:36.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:48:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:48:00.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:47:20.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:46:25.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAwwLcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T11:09:14.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:45:11.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:44:14.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:43:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:42:54.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:42:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteConfirmed.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\DeleteConfirmed.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\DeleteConfirmed.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\DeleteConfirmed.cshtml",
+              "RelativeToolTip": "Views\\Customers\\DeleteConfirmed.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:41:07.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:40:22.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:39:44.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAswM0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T11:06:21.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:38:38.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:37:50.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:37:00.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeleteConfirmed.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\DeleteConfirmed.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\DeleteConfirmed.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\DeleteConfirmed.cshtml",
+              "RelativeToolTip": "Views\\Categories\\DeleteConfirmed.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:35:25.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:34:31.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:33:47.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:33:01.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:32:17.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-17T11:30:55.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StoreManagementDB.Context.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\StoreManagementDB.Context.cs",
+              "RelativeDocumentMoniker": "Models\\StoreManagementDB.Context.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\StoreManagementDB.Context.cs",
+              "RelativeToolTip": "Models\\StoreManagementDB.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:32:20.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:30:28.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:31:02.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:31:09.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StoreManagementDB.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\StoreManagementDB.cs",
+              "RelativeDocumentMoniker": "Models\\StoreManagementDB.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\StoreManagementDB.cs",
+              "RelativeToolTip": "Models\\StoreManagementDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T11:17:03.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:31:11.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T10:31:15.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StoreManagementDB.Context.tt",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\StoreManagementDB.Context.tt",
+              "RelativeDocumentMoniker": "Models\\StoreManagementDB.Context.tt",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\StoreManagementDB.Context.tt",
+              "RelativeToolTip": "Models\\StoreManagementDB.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-17T10:32:14.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StoreManagementDB.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\StoreManagementDB.edmx",
+              "RelativeDocumentMoniker": "Models\\StoreManagementDB.edmx",
+              "ToolTip": "C:\\Users\\THABISO\\OneDrive\\Desktop\\StoreManagementApp\\Models\\StoreManagementDB.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\StoreManagementDB.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-05-17T10:24:29.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
